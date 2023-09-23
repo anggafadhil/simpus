@@ -5,7 +5,7 @@
     <a id="navbar_toggle_btn" class="navbar-toggle-btn nav-link-hover" href="javascript:void(0);"><span
             class="feather-icon"><i data-feather="menu"></i></span></a>
     <a class="navbar-brand" href="index.html">
-        <img class="brand-img d-inline-block" src="/perpus/logo-white.png" height="40" alt="brand" />
+        <img class="brand-img d-inline-block" src="/perpus/logo.jpg" height="40" alt="brand" />
     </a>
     <ul class="navbar-nav hk-navbar-content order-xl-2">
         {{-- <li class="nav-item">

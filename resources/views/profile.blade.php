@@ -16,19 +16,13 @@
         <div class="row">
             <div class="about-info">
                 <div class="col-md-6 thumb">
-                    <img src="/perpus/logo.png" alt="Thumb" class="text-center">
+                    <img src="/perpus/logo.jpg" alt="Thumb" class="text-center">
                 </div>
                 <div class="col-md-6 info">
-                    <h5>Profile Perpustakaan</h5>
-                    <h2>Selamat Datang Di Perpustakaan SD 6 Muhammadiyah</h2>
+                    <h5>Deskripsi Perpustakaan</h5>
+                    <h2>Selamat Datang Di Sistem Informasi Perpustakaan</h2>
                     <p>
-                        Perpustakaan SD Muhammdiyah 6 Palembang Terletak di Jl. Kol. H. Burlian No.1466, Ario Kemuning, Sukmajaya, Kota Palembang, Sumatera Selatan 30151.
-                        Berdiri diatas tanah seluas 4678 meter persegi. Perpustakaan ini diharapkan menjadi
-                        sumber belajar warga sekolah yang dalam pelayanannya tidak hanya menyediakan bahan pustaka
-                        pendukung kurikulum pendidikan, namun bahan bacaan ringan. Perpustakaan SD Muhammdiyah 6 Palembang
-                        senantiasa berbenah untuk mengoptimalkan perannya dalam mendukung kegiatan belajar mengajar serta
-                        untuk dapat melayani dengan prima dan mengembangkan serta meningkatkan literasi warga sekolah yang
-                        gemar membaca.
+                    Sistem Informasi Perpustakaan adalah sebuah perangkat lunak atau aplikasi yang dirancang untuk membantu mengelola dan mengautomatisasi berbagai proses yang terkait dengan pengelolaan perpustakaan. Sistem ini digunakan untuk mencatat dan mengorganisasi koleksi buku, media, dan sumber daya lainnya dalam perpustakaan, serta menyediakan layanan seperti peminjaman, pengembalian, pencarian buku, dan pelaporan. Dengan menggunakan Sistem Informasi Perpustakaan, pengguna perpustakaan, seperti pustakawan dan anggota perpustakaan, dapat dengan mudah mengakses informasi tentang buku yang tersedia, mengelola inventaris, dan memantau aktivitas peminjaman. Sistem ini juga membantu meningkatkan efisiensi dan aksesibilitas layanan perpustakaan secara keseluruhan.
                     </p>
                 </div>
             </div>

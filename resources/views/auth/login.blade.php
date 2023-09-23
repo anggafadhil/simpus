@@ -38,15 +38,15 @@
                                         {{ session('fail') }}
                                     </div>
                                 @endif
-                                <a class="auth-brand text-center d-block mb-20" href="#">
-                                    <img class="brand-img" src="/perpus/logo.png" height="70" alt="brand" />
+                              
+                                    
                                 </a>
                                 <form method="POST" action="{{ route('login') }}">
                                     @csrf
                                     @method('post')
-                                    <h1 class="display-4 text-center mb-10">Sistem Informasi</h1>
-                                    <p class="text-center mb-30">Perpustakaan SD 6 Muhammadiyah Palembang</p>
-                                    <br><center><p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
+                                    <h1 class="display-4 text-center mb-10">Sistem Informasi Perpustakaan</h1>
+                                 
+                                
 
                                     <div class="form-group">
                                         <input class="form-control" value="123456789" placeholder="Nomor Induk Pegawai" type="number"

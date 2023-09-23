@@ -8,8 +8,7 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="content">
-                        <h1>Aplikasi Perpustakaan SD 6 Muhammadiyah Palembang</h1>
-                        <br><center><p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
+                        <h1>Sistem Informasi Perpustakaan</h1>
 
                         <form action="{{ route('home.cari') }}" method="get">
                             @csrf
